@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pdbpp/pdbpp/commit/e1c2e347cc55a6dd89e058e56a1366ada68884bc",
       "git:hexsha": "e1c2e347cc55a6dd89e058e56a1366ada68884bc",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T04:21:53.340142+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pdbpp/pdbpp/commit/4c411c145b8ac5e570c1a0b0ca891e80b0e91b6b",
