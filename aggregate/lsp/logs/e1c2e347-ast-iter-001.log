@@ -1,0 +1,7 @@
+[2026-10-18T04:20:22Z] === AST ITERATION 1 START | repo=pdbpp/pdbpp sha=e1c2e347 ===
+[2026-10-18T04:20:22Z] [iter=1] PHASE START: ast repo=pdbpp/pdbpp sha=e1c2e347
+[2026-10-18T04:20:22Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T04:20:43Z] [iter=1] AST chunks built count=1 triples=240907
+[2026-10-18T04:20:43Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/e1c2e347cc55a6dd89e058e56a1366ada68884bc/.complete
+[2026-10-18T04:20:43Z] [iter=1] PHASE END: ast elapsed_s=20 elapsed_min=0.3
+[2026-10-18T04:20:43Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
